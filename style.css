@@ -64,12 +64,20 @@ margin-left: auto !important;
 .how_head{
 	color:#59676C;
 	margin:20px 0 20px 0;	
-	font-size:26px;
+	font-size:24px;
 
 }
 input{
 	margin:0 10px 20px 0!important;
 	padding:0 0 0 5px!important;
+}
+hr.style-one {
+    border: 0;
+    height: 1px;
+    background: #3075BA;
+    background-image: linear-gradient(to right, #EEEEEE, #3075BA, #EEEEEE);
+
+
 }
 .my_btn{
 	
@@ -79,7 +87,7 @@ input{
 }
 .footer_text{
 	color:#4D4D4D;
-	margin:20px 0 20px 0;	
+	margin:0 0 20px 0;	
 	line-height:26px;
 	font-size:17px;
 }
