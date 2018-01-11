@@ -91,7 +91,46 @@ hr.style-one {
 	line-height:26px;
 	font-size:17px;
 }
-/*===================what part================*/
+.align_center{
+	margin:20px 0 0 70px;
+}
+.circle_icon_fb{
+	border-radius:50%;
+	border:2px solid #2491BC;
+	float:left;
+	padding:12px 17px 12px 17px;
+	margin:0 5px 30px 0;
+	
+}
+.circle_icon_fb:hover{
+	border-radius:50%;
+	border:2px solid #2491BC;
+	background:#2491BC;
+	color:#fff;
+	float:left;
+		padding:12px 17px 12px 17px;
+	margin:0 5px 30px 0;
+	
+}
+.circle_icon{
+	border-radius:50%;
+	border:2px solid #2491BC;
+	float:left;
+	padding:12px 14px 12px 14px;
+	margin:0 5px 30px 0;
+}
+.circle_icon:hover{
+	border-radius:50%;
+	border:2px solid #2491BC;
+	background:#2491BC;
+	color:#fff;
+	float:left;
+	padding:12px 14px 12px 14px;
+	margin:0 5px 30px 0;
+}
+.icon_style{
+	font-size:18px;
+}
 
 /*==================media query=================*/
  @media screen and (min-width:100px) and (max-width:400px){
@@ -147,6 +186,9 @@ input{
 	margin:20px 0 20px 0;	
 	line-height:26px;
 	font-size:14px;
+}
+.align_center{
+	margin:20px 0 0 90px;
 }
  
  }
